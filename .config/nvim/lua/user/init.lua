@@ -1,0 +1,7 @@
+require("user.plugins")
+require("user.options")
+require("user.keymaps")
+require("user.default_plugin_settings")
+require("user.telescope")
+require("user.treesitter")
+require("user.lsp")
